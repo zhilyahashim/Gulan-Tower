@@ -744,7 +744,7 @@ ul li a{
                     <div class="overlay"></div>
                     
                     <div class="event_info">
-                        <p class="title_p">Gullan Park</p>
+                        <p class="title_p">Gullan Pa</p>
                         <div class="separatore"></div>
                         <p class="info">park</p>
                         
